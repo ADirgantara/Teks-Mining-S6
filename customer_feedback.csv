@@ -1,0 +1,51 @@
+feedback_id,feedback,actual_sentiment
+1,I love McDonald's fries! They're always so crispy and delicious!,Positive
+2,"The Big Mac I had yesterday was disappointing, it tasted stale.",Negative
+3,"McDonald's breakfast menu is always a delight, especially the hotcakes.",Positive
+4,"I found a hair in my burger, very disappointed with the hygiene.",Negative
+5,"The McFlurry I ordered was melted when it arrived, not happy about it.",Negative
+6,"I had a great experience at McDonald's drive-thru, the staff was quick and friendly.",Positive
+7,"The Filet-O-Fish sandwich was not fresh, tasted like it was reheated.",Negative
+8,"McDonald's coffee is my favorite, always consistent and flavorful.",Positive
+9,"The service at McDonald's was slow and the order was wrong, very frustrating.",Negative
+10,"I appreciate the value menu at McDonald's, great options at affordable prices.",Positive
+11,"The ice cream machine at McDonald's always seems to be broken, very annoying.",Negative
+12,"McDonald's apple pies are the best, always crispy and filled with delicious apples.",Positive
+13,"The chicken nuggets I ordered were overcooked and dry, not enjoyable at all.",Negative
+14,"The cleanliness of the McDonald's I visited was impressive, felt comfortable eating there.",Positive
+15,"The burger I had was cold and the fries were soggy, very disappointing experience.",Negative
+16,"I love the variety of options on the McDonald's menu, always something for everyone.",Positive
+17,"The milkshake I ordered was too thick and tasted artificial, did not enjoy it.",Negative
+18,"McDonald's staff was rude and unhelpful, will not be returning.",Negative
+19,"The Happy Meal toys are always a hit with my kids, great selection.",Positive
+20,"The burger patties at McDonald's are too thin, feels like I'm eating mostly bun.",Negative
+21,"I always enjoy the seasonal items at McDonald's, they're always so delicious.",Positive
+22,"The soda I ordered was flat, very disappointed with the drink quality.",Negative
+23,"The McCafe desserts are amazing, especially the chocolate cake.",Positive
+24,"The portion sizes at McDonald's are too small for the price, not a good value.",Negative
+25,"McDonald's fries are my guilty pleasure, can't get enough of them!",Positive
+26,"The chicken sandwich I ordered was bland and lacked flavor, not impressed.",Negative
+27,"I love the convenience of ordering through the McDonald's app, so easy to use.",Positive
+28,"The cleanliness of the McDonald's restroom was subpar, needs improvement.",Negative
+29,"McDonald's salads are always fresh and tasty, a healthy option on the menu.",Positive
+30,"The burger I ordered was missing toppings, very disappointed with the quality control.",Negative
+31,"The breakfast burritos at McDonald's are a great way to start the day, delicious!",Positive
+32,"The fries I ordered were undercooked and soggy, not what I expected from McDonald's.",Negative
+33,"McDonald's milkshakes are always a treat, especially the chocolate flavor.",Positive
+34,"The chicken sandwich I had was greasy and oily, not appetizing at all.",Negative
+35,"I love the McChicken sandwich, always a satisfying choice at McDonald's.",Positive
+36,The service at McDonald's drive-thru was slow and the staff seemed disorganized.,Negative
+37,"McDonald's apple slices are a great healthy option for kids, appreciate the choice.",Positive
+38,"The burger I ordered was dry and overcooked, very disappointing.",Negative
+39,"The McCafe coffees are always a hit, especially the seasonal flavors.",Positive
+40,"The chicken nuggets at McDonald's are always a favorite, great taste and texture.",Positive
+41,"The service at McDonald's was fast and efficient, very impressed.",Positive
+42,"The cleanliness of the McDonald's play area was lacking, needs better maintenance.",Negative
+43,"McDonald's hash browns are a must-have for breakfast, always crispy and delicious.",Positive
+44,"The burger I had was missing ingredients, very disappointed with the order.",Negative
+45,"I enjoy the variety of sauces available at McDonald's, adds flavor to the meals.",Positive
+46,"The McFlurry machine at McDonald's was broken, very disappointed.",Negative
+47,"McDonald's chicken wraps are a great lighter option, love the flavors.",Positive
+48,"The soda I ordered was flat and watered down, not happy with the drink.",Negative
+49,"The cleanliness of the McDonald's dining area was impressive, felt comfortable eating there.",Positive
+50,"The burger patties at McDonald's are too thin, feels like I'm eating mostly bun.",Negative
